@@ -15,7 +15,7 @@ actions:
     type: primary
 
   - text: 我的项目 💐
-    link: [https://theme-hope.vuejs.press/zh/guide/markdown/others.html](http://116.198.249.66:3000/?userId=zcx&activityId=100301)#link-check
+    link: http://116.198.249.66:3000/?userId=zcx&activityId=100301
 
 highlights:
   - header: 
@@ -25,7 +25,7 @@ highlights:
       - title: 抽奖系统
         icon: comment-dots
         details: 24年1月，以DDD领域驱动设计架构，开发完成分布式抽奖系统。运用了全面的分布式技术栈。
-        link: [https://theme-hope.vuejs.press/zh/guide/markdown/others.html](http://116.198.249.66:3000/?userId=zcx&activityId=100301)#link-check
+        link: http://116.198.249.66:3000/?userId=zcx&activityId=100301
 
       - title: 我的笔记
         icon: box-archive
