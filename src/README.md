@@ -30,7 +30,7 @@ highlights:
       - title: 我的笔记
         icon: box-archive
         details: 在我的学习过程中，我深入研究了Java及其相关技术栈，包括Spring Cloud、服务熔断、服务注册与发现等。通过这些笔记，我记录了从基本概念到高级应用的学习过程，希望能帮助其他开发者理解和掌握这些技术。
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/container.html
+        link: http://116.198.249.66/md/dev-log/day01.html
 
       - title: OpenAI 应用服务（备案中）
         icon: table-columns
