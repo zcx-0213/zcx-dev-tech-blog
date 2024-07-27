@@ -1,5 +1,5 @@
 ---
-title: 开发日志
+title: 开发笔记
 index: false
 icon: laptop-code
 category:
