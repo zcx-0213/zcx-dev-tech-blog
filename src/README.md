@@ -34,7 +34,7 @@ highlights:
 
       - title: OpenAI 应用服务（备案中）
         icon: table-columns
-        details: 23年10月，学习 OpenAi 技术，学习 OpenAi SDK 开发，完成应用场景的对接使用「涵盖支付对接」。
+        details: 23年10月，学习 OpenAi 技术，学习 OpenAi SDK 开发，完成应用场景的对接使用。
         link: https://theme-hope.vuejs.press/zh/guide/markdown/tabs.html
         
       - title: SpringBoot Stater
