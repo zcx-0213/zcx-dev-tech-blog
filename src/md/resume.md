@@ -12,7 +12,7 @@ category:
 
 - 姓名：张楚鑫
 - 电话：18738332177
-- 邮箱：zhangchuxin0213.163.com  
+- 邮箱：zhangchuxin0213@163.com  
 - 毕业时间：25年3月
 - Github：https://github.com/zcx-0213
 - 开源项目：[vo2dto](http://116.198.249.66:3000/?userId=zcx&activityId=100301) - 抽奖系统
