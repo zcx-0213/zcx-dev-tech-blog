@@ -15,7 +15,7 @@ actions:
     type: primary
 
   - text: 我的项目 💐
-    link: http://116.198.249.66:3000/?userId=zcx&activityId=100301
+    link: [http://116.198.249.66:3000/?userId=zcx&activityId=100301](http://116.198.249.66:3000/?userId=zcx&activityId=100301)
 
 highlights:
   - header: 
