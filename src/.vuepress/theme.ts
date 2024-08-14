@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "fuzhengwei/xfg-resume-blog",
+  repo: "zcx-0213",
 
   docsDir: "src",
 
